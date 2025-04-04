@@ -1,0 +1,4 @@
+Process completed at: 2025-03-23 12:24:25
+Total documents processed: 41255
+Vector store location: C:\Users\Malik Zeeshan\Desktop\AI Medical Chatbot\./vectorstore/db_faiss
+Total time taken: 1h 5m 44.28s
